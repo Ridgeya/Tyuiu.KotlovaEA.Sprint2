@@ -29,7 +29,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
 
         Console.WriteLine("X = " + x);
-        Console.WriteLine("Y = " + y);
+        Console.WriteLine("Y = " + x);
 
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");

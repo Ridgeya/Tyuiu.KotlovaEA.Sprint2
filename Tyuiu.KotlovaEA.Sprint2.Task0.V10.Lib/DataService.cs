@@ -7,7 +7,7 @@ namespace Tyuiu.KotlovaEA.Sprint2.Task0.V10.Lib
         {
             bool[] res = new bool[6];
 
-            res[0] = x == y;
+            res[0] = x == x;
             res[1] = x + 1 != y;
             res[2] = x < y;
             res[3] = x - 1 > y;
