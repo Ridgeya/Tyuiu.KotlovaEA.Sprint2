@@ -14,7 +14,11 @@
     <Project Path="Tyuiu.KotlovaEA.Sprint2.Task2.V22.Test/Tyuiu.KotlovaEA.Sprint2.Task2.V22.Test.csproj" />
     <Project Path="Tyuiu.KotlovaEA.Sprint2.Task2.V22/Tyuiu.KotlovaEA.Sprint2.Task2.V22.csproj" />
   </Folder>
-  <Folder Name="/Task3/" />
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.KotlovaEA.Sprint2.Task3.V20.Lib/Tyuiu.KotlovaEA.Sprint2.Task3.V20.Lib.csproj" Id="11d56e0f-30f0-4c1e-bc09-2358e549c6c2" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint2.Task3.V20.Test/Tyuiu.KotlovaEA.Sprint2.Task3.V20.Test.csproj" Id="de353a19-0279-4398-af0c-90d6c413dd52" />
+    <Project Path="Tyuiu.KotlovaEA.Sprint2.Task3.V20/Tyuiu.KotlovaEA.Sprint2.Task3.V20.csproj" Id="b4af40b6-19a4-41f0-aa9a-1b685a45975b" />
+  </Folder>
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
   <Folder Name="/Task6/" />
