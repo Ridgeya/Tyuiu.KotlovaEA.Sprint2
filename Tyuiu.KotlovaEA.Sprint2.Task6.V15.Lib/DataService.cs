@@ -11,13 +11,13 @@ namespace Tyuiu.KotlovaEA.Sprint2.Task6.V15.Lib
             }
             switch (k % 7)
             {
-                case 1: return "понедельник";
-                case 2: return "вторник";
-                case 3: return "среда";
-                case 4: return "четверг";
-                case 5: return "пятница";
-                case 6: return "суббота";
-                case 0: return "воскресенье";
+                case 1: return "Понедельник";
+                case 2: return "Вторник";
+                case 3: return "Среда";
+                case 4: return "Четверг";
+                case 5: return "Пятница";
+                case 6: return "Суббота";
+                case 0: return "Воскресенье";
                 default: throw new ArgumentException($"Некорректное значение k: {k}");
             }
         }
